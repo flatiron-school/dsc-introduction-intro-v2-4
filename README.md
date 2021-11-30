@@ -2,13 +2,9 @@
 
 ## Introduction
 
-Congratulations on making it this far! Now that you have mastered fundamentals of programming with Python, descriptive statistics, and data visualization, we're going to start digging in to the process of "doing           data science".
+In this section, you will learn about fundamental principles and tools used by data scientists. This section is light on labs, and heavy on reading.  All of the reading lesson are high priority.  They will help frame how you think about the data science process, data ethics, and writing good Python code. 
 
-## Data Science Fundamentals
-
-In the first half of this section, we will introduce a lot of new ideas about what we mean by "data science". What is the process? What kinds of problems can data science solve?
-
-We will also go over some key professional concerns of data scientists, including following code best practices and being ethical in our use of data.
+There are also setup instructions for the essential tools that you will use throughout the program.  Configuring these tools can be tricky, so read the directions carefully.  Setting them up correctly the first time will save you time and frustration later in the course.  
 
 ## Professional Data Science Environment Setup
 
@@ -25,6 +21,10 @@ The tools we cover in this section include:
 * GitHub
 
 You have actually already been using all of these tools "under the hood", but these lessons will walk through what they are all used for and how to install and use them on your computer.
+
+## Appendix
+
+Once you have finished reading about data science fundamentals and set up your tools, move on to the appendix.  There you will find a lab and a lesson which walk you through using the terminal to launch a Jupyter Notebook on a local server.  You will be able to complete the Jupyter content of Canvas via Illumidesk.  However, when you move to projects, you will need to be able to work locally.  If you don't get to the appendix material by the end of the day, make a note to review this content before the beginning of a project week. 
 
 ## Summary
 
