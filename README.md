@@ -1,10 +1,38 @@
 # Getting Started with Data Science - Introduction
 
-## Introduction
+Congratulations on making it this far! Now that you have mastered fundamentals of programming with Python, descriptive statistics, and data visualization, we're going to start digging in to the process of "doing data science".
 
-In this section, you will learn about fundamental principles and tools used by data scientists. This section is light on labs, and heavy on reading.  All of the reading lesson are high priority.  They will help frame how you think about the data science process, data ethics, and writing good Python code. 
+# Lesson Priorities
 
-There are also setup instructions for the essential tools that you will use throughout the program.  Configuring these tools can be tricky, so read the directions carefully.  Setting them up correctly the first time will save you time and frustration later in the course.  
+Work through the lessons in the topic sequentially, unless you are short on time. If you are short on time, be sure to finish the 1st priority items.  Keep in mind that 1st priority topics are designated as such because they are essential for your progression through the course. With regards to your growth as a data scientist, 2nd priority topics may be just as important as 1st priority.  For example, PEP8 is second priority, but it is critical that throughout the course, you develop your ability to write PEP8 adherent code.
+
+## 1st Priority
+
+- The Data Science Process
+- Problems Data Science Can Solve
+- Setting up a Professional Data Science Environment - Introduction
+- Setting up a Professional Data Science Environment - MacOS Installation
+- Setting up a Professional Data Science Environment - Windows Installation
+- Setting up a Professional Data Science Environment - Configuring Git and Anaconda
+> Be sure to have your DS environment set up correctly within the first days of the program.  You may be able to get by without doing so for a little while, but eventually an incorrect setup will amplify into significant headaches.  If you are unable to complete the lessons above (aligned to your specific OS), reach out to your instructor for a trouble shoot. 
+
+
+## 2nd Priority:
+- Data Privacy and Data Ethics
+- PEP8
+> Althought these are 2nd priority, ethical treatment of data and comfort with PEP8 guidelines are essential skills.  
+
+## Appendix
+
+Once you have finished reading about data science fundamentals and set up your tools, move on to the Appendix. There you will find a lab and a lesson which walk you through using the terminal to launch a Jupyter Notebook on a local server. You will be able to complete the Jupyter content of Canvas via Illumidesk. However, when you move to projects, you will need to be able to work locally. If you don't get to the appendix material by the end of the day, make a note to review this content before the beginning of a project week.
+
+
+
+## Data Science Fundamentals
+
+In the first half of this section, we will introduce a lot of new ideas about what we mean by "data science". What is the process? What kinds of problems can data science solve?
+
+We will also go over some key professional concerns of data scientists, including following code best practices and being ethical in our use of data.
 
 ## Professional Data Science Environment Setup
 
@@ -21,10 +49,6 @@ The tools we cover in this section include:
 * GitHub
 
 You have actually already been using all of these tools "under the hood", but these lessons will walk through what they are all used for and how to install and use them on your computer.
-
-## Appendix
-
-Once you have finished reading about data science fundamentals and set up your tools, move on to the appendix.  There you will find a lab and a lesson which walk you through using the terminal to launch a Jupyter Notebook on a local server.  You will be able to complete the Jupyter content of Canvas via Illumidesk.  However, when you move to projects, you will need to be able to work locally.  If you don't get to the appendix material by the end of the day, make a note to review this content before the beginning of a project week. 
 
 ## Summary
 
